@@ -1,0 +1,39 @@
+
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o título */
+.titulo-estilizado {
+    font-size: 2em;
+    color: #333;
+    background-color: #ffdd57;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-family: 'Arial', sans-serif;
+    display: inline-block;
+} 
+    /* Estilos para o cabeçalho */
+    header {
+        background-color: #4CAF50;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+
+/* Estilos para o título */
+.segundo-titulo {
+    font-size: 2em;
+    color: #333;
+    background-color: #ff0000;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-family: 'Arial', sans-serif;
+    display: inline-block;
+}
