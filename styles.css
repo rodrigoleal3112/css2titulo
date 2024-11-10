@@ -17,7 +17,7 @@ body {
 /* Estilização do primeiro cabeçalho */
 .header-principal h1 {
     font-size: 2.5em;
-    color: #0056b3;
+    color: # #ADD8E6;
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -25,7 +25,7 @@ body {
 /* Estilização do segundo cabeçalho */
 .header-secundario h2 {
     font-size: 2em;
-    color: #009688;
+    color:#009688;
     font-style: italic;
     margin-top: 30px;
     margin-bottom: 20px;
